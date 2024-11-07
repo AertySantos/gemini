@@ -1,0 +1,7 @@
+Crie um novo xml do tipo <ead>, conforme as instruções abaixo e o exemplos anteriores com as especificidades das instruções, preencha o máximo de campos possíveis baseado nas instruções, sem informações fictícias:
+"Nível 0 contém o Nó Raiz "Institution": É o arquivo principal que define a estrutura geral
+ Nível 1 contém o Nó "Other docs" e nó "Newspaper": Contém os tipos de documentos.
+ Nível 2 contém os Nós filhos de Newspaper ("Folio 1", "Folio 2")
+ Nível 3 Folio 1 contém os nós filhos ("A", "B") 
+ Nível 3 Folio 2 contém o nó filho ("Z")"
+ Como resposta apresente somente o arquivo "xml", sem comentários

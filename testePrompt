@@ -1,0 +1,41 @@
+Raiz Instituion: É o arquivo principal que define a estrutura geral e referencia o arquivo de nível 1
+Nivel 1  Other docs, Newspaper: Contém os tipos de documentos e faz referência a arquivos externos de nível 2.
+Nivel 2 Folio 1, Folio 2: Contém duas classes que sao nós filhos de Newspapers iram armazenar documentos especificos.
+Nivel 3 A, B, Z: Folio 1 contem os nós filhos A, B e Folio 2 Contem o nó filho z 
+
+crie arquivos separados conforme o exemplo:
+
+raiz.xml:
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://lcweb2.loc.gov/xmlcommon/dtds/ead2002/ead.dtd">
+<ead>
+  <eadheader>
+    <!-- Dados do cabeçalho -->
+  </eadheader>
+  <archdesc>
+    <dsc>
+    
+    </dsc>
+  </archdesc>
+</ead>
+
+nivel 1:
+<c level="otherlevel">
+     <did>
+          <unittitle>Notícias Políticas</unittitle>
+          <!-- Mais detalhes -->
+    </did>
+</c>
+
+nivel 2:
+<c level="otherlevel">
+  <did>
+    <unittitle>Políticas em Vila Velha</unittitle>
+    <unitid>01</unitid>
+    <unitdate>2020-2024</unitdate>
+    <physdesc>
+      20 itens
+    </physdesc>
+  </did>
+</c>
+
