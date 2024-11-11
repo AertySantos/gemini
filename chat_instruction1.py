@@ -1,6 +1,6 @@
 import google.generativeai as genai
 
-genai.configure(api_key="AIzaSyDRqsqYIknTr8_zdN6WyCyyJqduDgDYdns")
+genai.configure(api_key="")
 
 instruction = (
     "Você é um especialista em codificação que se especializa em XML. "
