@@ -1,7 +1,7 @@
 import google.generativeai as genai
 import xml.etree.ElementTree as ET
 
-genai.configure(api_key="AIzaSyDRqsqYIknTr8_zdN6WyCyyJqduDgDYdns")
+genai.configure(api_key="")
 
 def extract_xml(xml_path):
     # Carrega o XML
