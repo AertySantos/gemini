@@ -1,0 +1,23 @@
+Com base no texto fornecido, as informações explícitas são:
+
+1.  **Títulos/Assuntos:**
+    *   Relatório do Auditor Independente - Sem Ressalva
+    *   Relatório do auditor independente sobre as demonstrações financeiras individuais e consolidadas
+    *   Opinião
+    *   Base para opinião
+    *   Ênfases
+    *   Reapresentação dos valores correspondentes
+    *   Lei nº 4.819/58
+    *   Principais assuntos de auditoria
+    *   Mensuração do ativo da concessão
+    *   Outros assuntos
+    *   Demonstrações do valor adicionado
+    *   Outras informações que acompanham as demonstrações financeiras individuais e consolidadas e o relatório do auditor
+    *   Responsabilidades da administração e da governança pelas demonstrações financeiras individuais e consolidadas
+    *   Responsabilidades do auditor pela auditoria das demonstrações financeiras individuais e Consolidadas
+
+2.  **Data:** 22 de fevereiro de 2021, 31 de dezembro de 2020 e 31 de dezembro de 2019.
+
+3.  **Nome da Empresa:** CTEEP – Companhia de Transmissão de Energia Elétrica Paulista S.A.
+
+4.  **Nome e Registro do Contador:** Adilvo França Junior, CRC 1BA021419/O-4-T-SP

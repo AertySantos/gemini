@@ -1,0 +1,106 @@
+Relatório do Auditor Independente - Sem Ressalva
+
+Relatório do auditor independente sobre as demonstrações financeiras
+individuais e consolidadas
+
+Aos
+Acionistas, Conselheiros e Administradores da
+CTEEP – Companhia de Transmissão de Energia Elétrica Paulista S.A.
+São Paulo – SP
+
+Opinião
+
+Examinamos as demonstrações financeiras individuais e consolidadas da CTEEP – Companhia de Transmissão de Energia Elétrica Paulista S.A. (“CTEEP” ou “Companhia”), identificadas como controladora e consolidado, respectivamente, que compreendem os balanços patrimoniais em 31 de dezembro de 2020 e as respectivas demonstrações do resultado, do resultado abrangente, das mutações do patrimônio líquido e dos fluxos de caixa para o exercício findo nessa data, bem como as correspondentes notas explicativas, incluindo o resumo das principais políticas contábeis.
+
+Em nossa opinião, as demonstrações financeiras acima referidas apresentam adequadamente, em todos os aspectos relevantes, a posição patrimonial e financeira, individual e consolidada, da Companhia em 31 de dezembro de 2020, o desempenho individual e consolidado de suas operações e os seus respectivos fluxos de caixa individuais e consolidados para o exercício findo nessa data, de acordo com as práticas contábeis adotadas no Brasil e com as normas internacionais de relatório financeiro (IFRS) emitidas pelo International Accounting Standards Board (IASB).
+
+Base para opinião
+
+Nossa auditoria foi conduzida de acordo com as normas brasileiras e internacionais de auditoria. Nossas responsabilidades, em conformidade com tais normas, estão descritas na seção a seguir, intitulada “Responsabilidades do auditor pela auditoria das demonstrações financeiras individuais e consolidadas”. Somos independentes em relação à Companhia e suas controladas, de acordo com os princípios éticos relevantes previstos no Código de Ética Profissional do Contador e nas normas profissionais emitidas pelo Conselho Federal de Contabilidade, e cumprimos com as demais responsabilidades éticas de acordo com essas normas. Acreditamos que a evidência de auditoria obtida é suficiente e apropriada para fundamentar nossa opinião.
+
+Ênfases
+
+Reapresentação dos valores correspondentes
+
+Conforme mencionado na nota explicativa 2.4, em decorrência dos efeitos de revisão das taxas de desconto dos fluxos financeiros dos contratos de concessão e respectivo efeito nas margens de construção no resultado do exercício, e ao efeito da mudança na apresentação do ativo de concessão oriundo da Lei nº 12.783/2013 (RBSE), as demonstrações dos resultados individuais e consolidadas do exercício findo em 31 de dezembro de 2019 e os valores correspondentes a 31 de dezembro de 2019 apresentados na nota explicativa 7 – Ativos da Concessão, apresentados para fins de comparação, foram ajustados e estão sendo reapresentados como previsto na NBC TG 23 – Políticas Contábeis, Mudança de Estimativa e Retificação de Erro. Nossa opinião não contém modificação relacionada a esse assunto.
+
+Lei nº 4.819/58
+
+Conforme descrito nas notas 8 e 34, a Companhia mantém registrado contas a receber da Secretaria da Fazenda do Estado de São Paulo (SEFAZ-SP) no montante líquido de R$1.778.999 mil (R$1.576.332 mil em 31 de dezembro de 2019), relativo ao não ressarcimento à Companhia pela SEFAZ-SP dos valores repassados à Fundação CESP por conta da Lei nº 4.819/58, que concedeu aos servidores da Companhia, enquanto sob o controle do Estado de São Paulo, as vantagens já concedidas aos demais servidores públicos. A administração da Companhia vem monitorando os andamentos e desdobramentos relacionados à parte jurídica do assunto, bem como avaliando continuamente os eventuais impactos em suas demonstrações financeiras. Nossa opinião não contém modificação em relação a esse assunto.
+
+Principais assuntos de auditoria
+
+Principais assuntos de auditoria são aqueles que, em nosso julgamento profissional, foram os mais significativos em nossa auditoria do exercício corrente. Esses assuntos foram tratados no contexto de nossa auditoria das demonstrações financeiras individuais e consolidadas como um todo e na formação de nossa opinião sobre essas demonstrações financeiras individuais e consolidadas e, portanto, não expressamos uma opinião separada sobre esses assuntos. Para cada assunto abaixo, a descrição de como nossa auditoria tratou o assunto, incluindo quaisquer comentários sobre os resultados de nossos procedimentos, é apresentado no contexto das demonstrações financeiras tomadas em conjunto.
+
+Nós cumprimos as responsabilidades descritas na seção intitulada “Responsabilidades do auditor pela auditoria das demonstrações financeiras individuais e consolidadas”, incluindo aquelas em relação a esses principais assuntos de auditoria. Dessa forma, nossa auditoria incluiu a condução de procedimentos planejados para responder a nossa avaliação de riscos de distorções significativas nas demonstrações financeiras. Os resultados de nossos procedimentos, incluindo aqueles executados para tratar os assuntos abaixo, fornecem a base para nossa opinião de auditoria sobre as demonstrações financeiras da Companhia.
+
+Mensuração do ativo da concessão
+
+Conforme divulgado na nota 3.7, a Companhia avalia que mesmo após a conclusão da fase de construção da infraestrutura de transmissão, segue existindo um ativo de contrato pela contrapartida da receita de construção, uma vez que é necessário a satisfação da obrigação de operar e manter a infraestrutura para que a Companhia passe a ter um direito incondicional de receber caixa. Em 31 de dezembro de 2020, o saldo do ativo de contrato da Companhia é de R$13.235.561 mil na controladora e R$16.922.827 mil no consolidado.
+
+O reconhecimento do ativo de contrato e da receita da Companhia de acordo com o CPC 47 – Receita de Contrato com Cliente (IFRS15 – Revenue from contract with customer) requer o exercício de julgamento significativo sobre o momento em que o cliente obtém o controle do ativo. Adicionalmente, a mensuração do progresso da Companhia em relação ao cumprimento da obrigação de performance satisfeita ao longo do tempo requer também o uso de estimativas e julgamentos significativos pela administração para estimar os esforços ou insumos necessários para o cumprimento da obrigação de performance, tais como materiais e mão de obra, margens de lucros esperada em cada obrigação de performance identificada, e as projeções das receitas esperadas. Finalmente, por se tratar de um contrato de longo prazo, a identificação da taxa de desconto que representa o componente financeiro embutido no fluxo de recebimento futuro também requer o uso de julgamento por parte da administração. Devido à relevância dos valores e do julgamento significativo envolvido, consideramos a mensuração da receita de contrato com cliente como um assunto significativo para a nossa auditoria.
+
+Como nossa auditoria tratou o assunto:
+
+Nossos procedimentos de auditoria incluíram, dentre outros: (i) a avaliação dos procedimentos internos relativos aos gastos realizados para execução do contrato; (ii) análise da determinação de margem nos projetos em construção, relacionado aos novos contratos de concessão, e aos projetos de reforços e melhorias das instalações de transmissão de energia elétrica já existentes, verificando a metodologia e as premissas adotadas pela Companhia, para estimar o custo total de construção, e o valor presente dos fluxos de recebimento futuro, descontado a taxa de juros implícita que representa o componente financeiro embutido no fluxo de recebimentos; (iii) com o auxílio de especialistas em modelagem financeira, análise da metodologia e dos cálculos para determinar a referida taxa implícita de desconto; (iv) análise do contrato de concessão e seus aditivos para identificar as obrigações de performance previstas contratualmente, além de aspectos relacionados aos componentes variáveis, aplicáveis ao preço do contrato; (v) análise do enquadramento da infraestrutura já construída no conceito de ativo de contrato, incluindo o ativo de concessão da Lei nº 12.783 (RBSE); (vi) análise da atribuição de receita a cada uma das obrigações de performance presentes nos contratos de concessão; (vii) análise de eventual risco de penalizações por atrasos na construção ou indisponibilidade; (viii) análise da eventual existência de contrato oneroso; (ix) análise dos impactos oriundos da Revisão Tarifária Periódica (RTP), por meio de inspeção das notas técnicas e consultas públicas emitidas pelo órgão regulador, recálculo do valor presente do fluxo contratual dos ativos da concessão, com base na nova Receita Anual Permitida (RAP) e verificação das glosas de projetos e das bases de remuneração; (x) com apoio de profissionais especializados em avaliação projetos de construção: (a) análise do cumprimento do cronograma físico das obras em andamento, bem como a verificação da existência ou não de itens anormais ao cronograma físico atualizado da obra, com possíveis alterações de projeto, ou mudanças de fornecedores que possam gerar custos não capturados pelos controles internos da Companhia; (b) avaliação das variações entre o orçamento inicial e orçamento atualizado das obras em andamento, e as justificativas apresentadas pela gestão da obra para os desvios; e (c) caso aplicável, verificação de indícios de suficiência dos custos a incorrer, para conclusão das etapas construtivas do empreendimento; (xi) análises das comunicações com órgãos reguladores relacionadas à atividade de transmissão de energia elétrica e de mercado de valores mobiliários; e (xii) a avaliação das divulgações efetuadas pela Companhia e suas controladas nas demonstrações financeiras individuais e consolidadas.
+
+Baseados no resultado dos procedimentos de auditoria efetuados sobre a mensuração do ativo da concessão da Companhia e de suas controladas, que está consistente com a avaliação da administração, consideramos que os critérios e premissas de determinação da receita de construção e do ativo de contrato adotados pela administração, assim como as respectivas divulgações nas notas explicativas 3.7 e 7, são aceitáveis, no contexto das demonstrações financeiras individuais e consolidadas tomadas em conjunto.
+
+Outros assuntos
+
+Demonstrações do valor adicionado
+
+As demonstrações individual e consolidada do valor adicionado (DVA) referentes ao exercício findo em 31 de dezembro de 2020, elaboradas sob a responsabilidade da administração da Companhia, e apresentadas como informação suplementar para fins de IFRS, foram submetidas a procedimentos de auditoria executados em conjunto com a auditoria das demonstrações financeiras da Companhia. Para a formação de nossa opinião, avaliamos se essas demonstrações estão conciliadas com as demonstrações financeiras e registros contábeis, conforme aplicável, e se a sua forma e conteúdo estão de acordo com os critérios definidos no Pronunciamento Técnico NBC TG 09 – Demonstração do Valor Adicionado. Em nossa opinião, essas demonstrações do valor adicionado foram adequadamente elaboradas, em todos os aspectos relevantes, segundo os critérios definidos nesse Pronunciamento Técnico e são consistentes em relação às demonstrações financeiras individuais e consolidadas tomadas em conjunto.
+
+Outras informações que acompanham as demonstrações financeiras individuais e consolidadas e o relatório do auditor
+
+A administração da Companhia é responsável por essas outras informações que compreendem o Relatório da administração.
+
+Nossa opinião sobre as demonstrações financeiras individuais e consolidadas não abrange o Relatório da administração e não expressamos qualquer forma de conclusão de auditoria sobre esse relatório.
+
+Em conexão com a auditoria das demonstrações financeiras individuais e consolidadas, nossa responsabilidade é a de ler o Relatório da administração e, ao fazê-lo, considerar se esse relatório está, de forma relevante, inconsistente com as demonstrações financeiras ou com nosso conhecimento obtido na auditoria ou, de outra forma, aparenta estar distorcido de forma relevante.
+
+Se, com base no trabalho realizado, concluirmos que há distorção relevante no Relatório da administração somos requeridos a comunicar esse fato. Não temos nada a relatar a este respeito.
+
+Responsabilidades da administração e da governança pelas demonstrações financeiras individuais e consolidadas
+
+A administração é responsável pela elaboração e adequada apresentação das demonstrações financeiras individuais e consolidadas de acordo com as práticas contábeis adotadas no Brasil e com as normas internacionais de relatório financeiro (IFRS), emitidas pelo International Accounting Standards Board (IASB), e pelos controles internos que ela determinou como necessários para permitir a elaboração de demonstrações financeiras livres de distorção relevante, independentemente se causada por fraude ou erro.
+
+Na elaboração das demonstrações financeiras individuais e consolidadas, a administração é responsável pela avaliação da capacidade de a Companhia continuar operando, divulgando, quando aplicável, os assuntos relacionados com a sua continuidade operacional e o uso dessa base contábil na elaboração das demonstrações financeiras, a não ser que a administração pretenda liquidar a Companhia ou cessar suas operações, ou não tenha nenhuma alternativa realista para evitar o encerramento das operações.
+
+Os responsáveis pela governança da Companhia e suas controladas são aqueles com responsabilidade pela supervisão do processo de elaboração das demonstrações financeiras.
+
+Responsabilidades do auditor pela auditoria das demonstrações financeiras individuais e Consolidadas
+
+Nossos objetivos são obter segurança razoável de que as demonstrações financeiras individuais e consolidadas, tomadas em conjunto, estão livres de distorção relevante, independentemente se causada por fraude ou erro, e emitir relatório de auditoria contendo nossa opinião. Segurança razoável é um alto nível de segurança, mas não uma garantia de que a auditoria realizada de acordo com as normas brasileiras e internacionais de auditoria sempre detecta as eventuais distorções relevantes existentes. As distorções podem ser decorrentes de fraude ou erro e são consideradas relevantes quando, individualmente ou em conjunto, possam influenciar, dentro de uma perspectiva razoável, as decisões econômicas dos usuários tomadas com base nas referidas demonstrações financeiras.
+
+Como parte da auditoria realizada de acordo com as normas brasileiras e internacionais de auditoria, exercemos julgamento profissional e mantemos ceticismo profissional ao longo da auditoria. Além disso:
+
+• Identificamos e avaliamos os riscos de distorção relevante nas demonstrações financeiras individuais e consolidadas, independentemente se causada por fraude ou erro, planejamos e executamos procedimentos de auditoria em resposta a tais riscos, bem como obtivemos evidência de auditoria apropriada e suficiente para fundamentar nossa opinião. O risco de não detecção de distorção relevante resultante de fraude é maior do que o proveniente de erro, já que a fraude pode envolver o ato de burlar os controles internos, conluio, falsificação, omissão ou representações falsas intencionais.
+
+• Obtivemos entendimento dos controles internos relevantes para a auditoria para planejarmos procedimentos de auditoria apropriados às circunstâncias, mas, não, com o objetivo de expressarmos opinião sobre a eficácia dos controles internos da Companhia e suas controladas.
+
+• Avaliamos a adequação das políticas contábeis utilizadas e a razoabilidade das estimativas contábeis e respectivas divulgações feitas pela administração.
+
+• Concluímos sobre a adequação do uso, pela administração, da base contábil de continuidade operacional e, com base nas evidências de auditoria obtidas, se existe incerteza relevante em relação a eventos ou condições que possam levantar dúvida significativa em relação à capacidade de continuidade operacional da Companhia. Se concluirmos que existe incerteza relevante, devemos chamar atenção em nosso relatório de auditoria para as respectivas divulgações nas demonstrações financeiras individuais e consolidadas ou incluir modificação em nossa opinião, se as divulgações forem inadequadas. Nossas conclusões estão fundamentadas nas evidências de auditoria obtidas até a data de nosso relatório. Todavia, eventos ou condições futuras podem levar a Companhia a não mais se manter em continuidade operacional.
+
+• Avaliamos a apresentação geral, a estrutura e o conteúdo das demonstrações financeiras, inclusive as divulgações e se as demonstrações financeiras individuais e consolidadas representam as correspondentes transações e os eventos de maneira compatível com o objetivo de apresentação adequada.
+
+• Obtivemos evidência de auditoria apropriada e suficiente referente às informações financeiras das entidades ou atividades de negócio do grupo para expressar uma opinião sobre as demonstrações financeiras individuais e consolidadas. Somos responsáveis pela direção, supervisão e desempenho da auditoria do grupo e, consequentemente, pela opinião de auditoria.
+
+Comunicamo-nos com os responsáveis pela governança a respeito, entre outros aspectos, do alcance e da época dos trabalhos de auditoria planejados e das constatações significativas de auditoria, inclusive as eventuais deficiências significativas nos controles internos que eventualmente tenham sido identificadas durante nossos trabalhos.
+
+Fornecemos também aos responsáveis pela governança declaração de que cumprimos com as exigências éticas relevantes, incluindo os requisitos aplicáveis de independência, e comunicamos todos os eventuais relacionamentos ou assuntos que poderiam afetar, consideravelmente, nossa independência, incluindo, quando aplicável, as respectivas salvaguardas.
+
+Dos assuntos que foram objeto de comunicação com os responsáveis pela governança, determinamos aqueles que foram considerados como mais significativos na auditoria das demonstrações financeiras do exercício corrente e que, dessa maneira, constituem os principais assuntos de auditoria. Descrevemos esses assuntos em nosso relatório de auditoria, a menos que lei ou regulamento tenha proibido divulgação pública do assunto, ou quando, em circunstâncias extremamente raras, determinarmos que o assunto não deve ser comunicado em nosso relatório porque as consequências adversas de tal comunicação podem, dentro de uma perspectiva razoável, superar os benefícios da comunicação para o interesse público.
+
+São Paulo, 22 de fevereiro de 2021.
+
+ERNST & YOUNG
+Auditores Independentes S.S.
+CRC-2SP034519/O-6
+
+
+
+Adilvo França Junior
+Contador CRC 1BA021419/O-4-T-SP
