@@ -6,6 +6,7 @@ import os
 client = genai.Client(api_key="your key")
 tempo_inicial = time.time()
 
+
 def enviar_msg(doc):
 
     contexto = f"""A partir do texto fornecido, extraia apenas as informações que estiverem explicitamente presentes, sem interpretar ou inferir nada.
@@ -33,7 +34,7 @@ def leitura():
     global tempo_inicial
    
     directory_path = "contabil"
-   
+    contador = 0
     # Loop sobre os arquivos .pdf no diretório especificado
     for filename in os.listdir(directory_path):
         if filename.endswith(".txt"):  # Verifica se é um arquivo .txt
@@ -43,7 +44,7 @@ def leitura():
             with open(file_path, "r", encoding="utf-8") as file:
                 arquivo = file.read()
             resp = enviar_msg(arquivo)
-           
+            contador += 1
             #print(resp)
            
             if resp is None:
