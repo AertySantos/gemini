@@ -5,7 +5,7 @@ import pandas as pd
 import requests
 import time
 
-client = genai.Client(api_key="AIzaSyDSa7weo4h2_Z2EU4jS4lMUxYYSp6OtuTE")
+client = genai.Client(api_key="your key")
 tempo_inicial = time.time()
 
 def enviar_msg(doc):
